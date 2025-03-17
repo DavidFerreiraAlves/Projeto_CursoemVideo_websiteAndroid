@@ -30,7 +30,7 @@ A responsive and modern website for an Android course, designed to provide an in
 
 ## 🌎 Live Demo  
 
-🔗 [Project Live Link](https://davidferreiraalves.github.io/Projeto_CursoemVideo_websiteAndroid/) *(Add the hosted link if available)*  
+🔗 [Project Live Link](https://davidferreiraalves.github.io/Projeto_CursoemVideo_websiteAndroid/) 
 
 ## 📬 Contact  
 
